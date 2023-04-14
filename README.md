@@ -1,4 +1,4 @@
-# BI-Project
+BI-Project
 Data Visualization With Power BI
 Objectives:1
 •	Using R to Import Raw Data
@@ -84,7 +84,7 @@ Power B1
 •	The worldwide gross per genre 
 
 
-
+https://app.powerbi.com/groups/me/reports/b6d0c62e-066c-45f6-9cf2-de5113c094c0/ReportSection18551c692d3cf57db2ad
 
 
 
